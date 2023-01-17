@@ -53,7 +53,12 @@ No activity tracked
 
 
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MemoTonui&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center">
+<a href="https://github.com/MemoTonui">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MemoTonui&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MemoTonui&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
 
 
