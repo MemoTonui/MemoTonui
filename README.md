@@ -66,7 +66,7 @@ No activity tracked
 ---
 <p align="center"> © 2023 Linda Tonui, all rights reserved. Made with ❤️  </p>
 <p align="center">
-https://memotonui.github.io/Portfolios/
+https://linda-tonuis-portfolio.netlify.app/
 </p>
 <!---
 MemoTonui/MemoTonui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
